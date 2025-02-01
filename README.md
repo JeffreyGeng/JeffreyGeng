@@ -8,8 +8,6 @@
 - <b>[Meshing Parameter Research]()</b>
 
 <h2>Connect with me:</h2>
-[![JeffreyGeng | LinkedIn][linkedin-img]][linkedin]
+[![JeffreyGeng | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jeffrey-geng-a9955924a/)
 
-[linkedin-img]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
-[linkedin]: https://www.linkedin.com/in/jeffrey-geng-a9955924a/
 
